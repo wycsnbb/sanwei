@@ -1,0 +1,11 @@
+flat roof: 平顶屋顶
+gable roof: 人字屋顶
+
+
+AZ5 = D5 / BQ5
+flat_roof比例 =  类别flat_roof / total_number
+total_number = sum(所有类别)
+
+
+
+
